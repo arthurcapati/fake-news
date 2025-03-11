@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+.idea
+.venv
+venv
+
+mlartifacts
+mlruns
+
+# Ignorar arquivos compilados Python (.pyc) e pastas __pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+>>>>>>> f2ec201 (Treinamento e Otimização dos modelos)
